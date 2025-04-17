@@ -5,10 +5,6 @@ This is my machine learning project , where I explore the problem of **fake news
 
 To create a machine learning pipeline that can detect whether a news article is fake or real using text data.
 
-ion
 
-##  Project Structure
-.
-├── project2.ipynb         # Main Jupyter Notebook with code
-├── README.md              # Project documentation
+
 
